@@ -1,0 +1,6 @@
+{
+	"eventstore": {
+		"type": "redis",
+		"host": "localhost"
+	}
+}
